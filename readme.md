@@ -7,6 +7,7 @@
 - [Resources](#resources)
 - [Deploy and run](#deploy-and-run)
 - [Build](#build)
+- [Samples](#samples)
 
 ## Resources
 
@@ -22,6 +23,11 @@
 ## Build
 
 - [steampipe-plugin-build-push-action](https://github.com/francois2metz/steampipe-plugin-build-push-action) - GitHub action to build your Steampipe plugin and push it to GitHub packages.
+
+## Samples
+
+- [GOV.UK PaaS dashboard](https://github.com/pauldougan/paas-steampipe-dashboard)
+- [steampipe-samples](https://github.com/turbot/steampipe-samples) - Examples, samples, snippets and scripts to use with Steampipe.
 
 ## Contribute
 
