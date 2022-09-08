@@ -5,6 +5,7 @@
 ## Contents
 
 - [Resources](#resources)
+- [Community](#community)
 - [Deploy and run](#deploy-and-run)
 - [Build](#build)
 - [Samples](#samples)
@@ -14,6 +15,10 @@
 - [Official website](https://steampipe.io/)
 - [Documentation](https://steampipe.io/docs)
 - [Plugin and mod hub](https://hub.steampipe.io/)
+
+## Community
+
+- [Slack](https://steampipe.io/community/join)
 
 ## Deploy and run
 
