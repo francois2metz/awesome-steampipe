@@ -27,6 +27,7 @@
 
 ## Build
 
+- [steampipe-plugin-hello](judell/steampipe-plugin-hello) - Steampipe plugin boilerplate.
 - [steampipe-plugin-build-push-action](https://github.com/francois2metz/steampipe-plugin-build-push-action) - GitHub action to build your Steampipe plugin and push it to GitHub packages.
 
 ## Samples
